@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "marketers-code112",
+  "private_key_id": "40ca97e9593c3192b0cf50d791334691c3f74da1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIHGEuoimonPxQ\nQ0hSVotnSD2mkP3rb+okrxbdCxO6drHXUzPC+n4Rddw7LfpGPd+qPpMZ4+ouvmHl\nSmzj90kaquahDGmKzJZqKSBqnzmRkt7dGPf1BvSldvnpmhBqkc2YvyZnJuddCD60\no5RxikLyhmgCNckl0um3GYoYMth4ktXF+MQiBLJfZQspXQQOMvruo9LPS87YHLUS\np6jfOSwJ2L+bQ67kf7yj4nd8bd4smffUzzYHXXvIkznwFBH27fJgJCjhhez46XM/\nReirgVKF7cMjMew52vFKrTHXf4wQmTN/ljzgt18L6DshpjIJYKBtCC85lptpEIwA\nS5m5Rg9vAgMBAAECggEAQCbo+Nw/4rBBKzIGs27PThMYwJdm7913AL+o4sA0WOjI\nZrFjvLQ1Sj+wlMBOpcocNCXPXtN0NfwOwkUz13llVElJmoOyKi8gYXRB0iytdf/R\ntqvUghbyw0D7KWqcrK2FbdyJ4TPVpDuKbrqqUiPzBnEUUvEPRTLyfiKP5OYYA77t\nYdFXy+I2VlT0rUfQnH93UTd+iW7lRr2qaKzOA6d6Xb9ThQRLvZ9HLjnhPR7QQK5a\nmOBSgvzpGqyOw6B5u2X5iiFcirqgssYH6LQiyd4Fn9eeW2pCAs+ug00jvyeKLkDC\nlLAWZurIBeU4yjvVjAqcFcUTaU8I1WIrjv8m65ezMQKBgQD257/Z6oIvaDb3F1E6\nVtc3z+CpP/b5zqx9Z9yK7muL5xOymM+8KvYcGYo7m7iD+2aHYkzjwfz0o739zW/K\nFztFkj9tZiY+EYKlU1rf3n72j4SvQHGxdge2h0vgv1TQa3tntTRoX242ugXfaodB\nB0+IM2Gm9tjjFiMA82iQ9Q79XQKBgQDPe18U/pU5fD7IkkWFL5JNlBdDkzaITV5d\ndboAU4eWeHsAVVXXv7cKswdPT/QvI0EYSdNO5F6mfOhroQGM0PVD2B4dLXNhcOiv\nR8QAOQdWNokSe+3bIGhziCR6ZZjXgG3W1is0gg0Zl6/uAtpq4XVr9CKOz7Zb1lCw\nyMQP0xKnOwKBgQCAa4OO7Xlu/O5x0E/wXxCrt9SrU1i7D7MJuwarwFxxtOu63d5W\niaXeca5DWLg89XqbehZx9AkEmVINe1fkrfanNe0FkrbbW7IvGU7P1+MDjRw/Ju67\nlZ9nYbGmoP2VNgJGq6opi1FA57p8POVCfnHwboEhHY0rd+0W5oOBueRlBQKBgAZm\nwgo9yJDbenxptudjDlqCZS1aj2YpLO4pQbHc4eQMl47tExby/UzBNUqHJvuFVO7Q\n6EoY1arBU9JuR0P29no/Yr53toWdHDC8QBnZqJZKXHRLio0mNNLLsoRsOgj8F2d3\neCHImWreuTjYsbB2gE7yW1aYpgGzXQ33Q8VRN9QdAoGAduMEIPr/lKt0kzXhBB00\nM8jSooJNqysyliUCbkhjFO7Nc53+/5R5xzrjVMdlMzZM/X7pZLUG5djFLjY9LaRt\neDlBMu1FZ4Kp8U30KpepIlCJdIcRlAMJMzFFqTFqdUZ11fbhuOq8MHBIYW27oetU\nHocLejrqBcyC4/blVGOq7m4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "code-marketers@marketers-code112.iam.gserviceaccount.com",
+  "client_id": "100354702710727357608",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/code-marketers%40marketers-code112.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
